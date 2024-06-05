@@ -1,0 +1,4 @@
+#include "device_tree.h" //这里去包含上面的头文件
+/{
+        model = LCKFB;
+};

@@ -1,0 +1,12 @@
+# 1 "device_tree.dts"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 1 "device_tree.dts"
+/dts-v1/;
+# 1 "device_tree.dtsi" 1
+# 1 "device_tree.h" 1
+# 2 "device_tree.dtsi" 2
+/{
+        model = "www.lckfb.com";
+};
+# 3 "device_tree.dts" 2
